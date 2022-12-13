@@ -1,0 +1,20 @@
+.third__swiper{
+  margin-top: 20px;
+  width: 1400px;
+}
+.categories{
+  display: flex;
+  justify-content: space-around;
+  align-items:center ;
+  width: 250px;
+  height: 78px;
+}
+.category__img{
+  margin-right: 20px;
+}
+.section__title{
+  font-size: 24px;
+}
+.category__title{
+  font-size: 16px;
+}

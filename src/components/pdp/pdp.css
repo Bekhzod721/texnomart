@@ -1,0 +1,18 @@
+.pdp {
+  display: flex;
+  justify-content: flex-start;
+}
+.pdp__img {
+  width: 400px;
+  height: 400px;
+  margin-bottom: 20px;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+.pdp__price {
+  color: #fbc100;
+}
+.pdp__description {
+  font-size: 20px;
+  width: 400px;
+}

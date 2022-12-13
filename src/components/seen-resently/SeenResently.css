@@ -1,0 +1,22 @@
+.last__seen{
+  margin-top: 20px;
+}
+.product__btnsSeen{
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.payment__plan{
+  font-size: 12px;
+  padding: 2px 5px;
+  background-color: rgb(186, 181, 181);
+  border-radius: 30px;
+}
+.add__toCartSeen{
+  padding: 4px 13px;
+  width: 44px;
+  height: 36px;
+  background-color: #fbc100;
+  border-radius: 8px;
+}

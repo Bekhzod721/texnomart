@@ -1,0 +1,36 @@
+.slider{
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.slider .carousel-control-next-icon{
+  width: 25px;
+  height: 30px;
+  color: black;
+}
+.slider .carousel-control-next{
+  background-color: rgb(134, 172, 209);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  top: 40%;
+  right: 2%;
+ }
+.slider .carousel-control-prev-icon{
+  width: 25px;
+  height: 30px;
+
+}
+.slider .carousel-control-prev{
+  background-color: rgb(134, 172, 209);
+  width: 50px;
+ 
+  height: 50px;
+  border-radius: 50%;
+  top: 40%;
+  left: 2%;
+}
+.slider .carousel-indicators button{
+  border-radius: 50%; 
+  width: 10px;
+  height: 10px;
+}

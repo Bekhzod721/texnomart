@@ -1,0 +1,41 @@
+.CreditPayment{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 60px;
+}
+.CreditPayment__title{
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+.CreditPayment__list{
+  padding: 30px 0px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1400px;
+  border: solid 1px #e2e0e0;
+  border-radius: 10px;
+}
+.CreditPayment__item{
+  width: 265px;
+  height: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.payment__img{
+  padding: 15px;
+  border-radius: 50%;
+  background-color: #F7F7F7;
+  margin-bottom: 20px;
+}
+.payment__title{
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.payment__text{
+  font-size: 13px;
+  text-align: center;
+}

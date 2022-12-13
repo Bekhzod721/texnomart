@@ -1,0 +1,65 @@
+*{
+  text-decoration: none;
+}
+.site__nav{
+  background-color: #333333;
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+.container{
+  max-width: 1440px;
+  padding: 0;
+  margin: 0 auto;
+}
+.nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.selection{
+  display: flex;
+}
+.region__selection{
+  border: none;
+  background-color: #333333;
+  outline: none;
+  max-width: 150px;
+  color:  #fff;
+}
+.nav__link{
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+}
+.nav__link:hover{
+  color: #fff;
+}
+.contact{
+  display: flex;
+  align-items: center;
+}
+.phone__number{
+  color: #fff;
+  text-decoration: none;
+  margin-right:  25px;
+}
+.phone__number:hover{
+  color: #fff;
+}
+.earth{
+  color: #fff;
+}
+.language__select{
+  border: none;
+  background-color: #333333;
+  outline: none;
+  color: #fff;
+}
+.language__selection{
+  border: solid 1px rgb(122, 117, 117);
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  padding: 4px;
+}
